@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/74/trunk/src/org/alliance/core/comm/throttling
+END
+BandwidthThrottle.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/34/trunk/src/org/alliance/core/comm/throttling/BandwidthThrottle.java
+END
+T.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/74/trunk/src/org/alliance/core/comm/throttling/T.java
+END

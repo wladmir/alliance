@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/242/trunk/src/org/alliance/ui
+END
+UIBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/UIBridge.java
+END
+MainWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/180/trunk/src/org/alliance/ui/MainWindow.java
+END
+UISubsystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/235/trunk/src/org/alliance/ui/UISubsystem.java
+END
+JSpeedDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/68/trunk/src/org/alliance/ui/JSpeedDiagram.java
+END
+T.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/74/trunk/src/org/alliance/ui/T.java
+END
+FriendListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/FriendListModel.java
+END
+UISound.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/76/trunk/src/org/alliance/ui/UISound.java
+END
+JDownloadGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/68/trunk/src/org/alliance/ui/JDownloadGrid.java
+END

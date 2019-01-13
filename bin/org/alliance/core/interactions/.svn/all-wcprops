@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/57/trunk/src/org/alliance/core/interactions
+END
+NewVersionAvailableInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/57/trunk/src/org/alliance/core/interactions/NewVersionAvailableInteraction.java
+END
+ForwardedInvitationInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/34/trunk/src/org/alliance/core/interactions/ForwardedInvitationInteraction.java
+END
+NewFriendConnectedUserInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/34/trunk/src/org/alliance/core/interactions/NewFriendConnectedUserInteraction.java
+END
+PleaseForwardInvitationInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/34/trunk/src/org/alliance/core/interactions/PleaseForwardInvitationInteraction.java
+END
+PostMessageToAllInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/34/trunk/src/org/alliance/core/interactions/PostMessageToAllInteraction.java
+END
+PostMessageInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/34/trunk/src/org/alliance/core/interactions/PostMessageInteraction.java
+END
+NeedsToRestartBecauseOfUpgradeInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/34/trunk/src/org/alliance/core/interactions/NeedsToRestartBecauseOfUpgradeInteraction.java
+END
+FriendAlreadyInListUserInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/34/trunk/src/org/alliance/core/interactions/FriendAlreadyInListUserInteraction.java
+END

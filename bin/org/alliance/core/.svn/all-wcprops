@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/235/trunk/src/org/alliance/core
+END
+Language.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/180/trunk/src/org/alliance/core/Language.java
+END
+SimpleTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/68/trunk/src/org/alliance/core/SimpleTimer.java
+END
+UICallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/233/trunk/src/org/alliance/core/UICallback.java
+END
+AwayManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/34/trunk/src/org/alliance/core/AwayManager.java
+END
+NonWindowUICallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/34/trunk/src/org/alliance/core/NonWindowUICallback.java
+END
+NeedsUserInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/trunk/src/org/alliance/core/NeedsUserInteraction.java
+END
+SynchronizedNeedsUserInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/34/trunk/src/org/alliance/core/SynchronizedNeedsUserInteraction.java
+END
+BroadcastManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/trunk/src/org/alliance/core/BroadcastManager.java
+END
+PublicChatHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/70/trunk/src/org/alliance/core/PublicChatHistory.java
+END
+LauncherJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/70/trunk/src/org/alliance/core/LauncherJava.java
+END
+T.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/74/trunk/src/org/alliance/core/T.java
+END
+PacedRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/34/trunk/src/org/alliance/core/PacedRunner.java
+END
+CoreSubsystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/235/trunk/src/org/alliance/core/CoreSubsystem.java
+END
+Manager.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/34/trunk/src/org/alliance/core/Manager.java
+END
+ResourceSingelton.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/68/trunk/src/org/alliance/core/ResourceSingelton.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/68/trunk/src/org/alliance/core/Log.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130/trunk/src/org/alliance/core/file/h2database
+END
+DatabaseCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/116/trunk/src/org/alliance/core/file/h2database/DatabaseCore.java
+END
+DatabaseHashes.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/79/trunk/src/org/alliance/core/file/h2database/DatabaseHashes.java
+END
+DatabaseDuplicates.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/116/trunk/src/org/alliance/core/file/h2database/DatabaseDuplicates.java
+END
+DatabaseSharesBases.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116/trunk/src/org/alliance/core/file/h2database/DatabaseSharesBases.java
+END
+DatabaseShares.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/130/trunk/src/org/alliance/core/file/h2database/DatabaseShares.java
+END

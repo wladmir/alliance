@@ -1,0 +1,77 @@
+10
+
+dir
+242
+http://alliancep2pbeta.googlecode.com/svn/trunk/src/org/alliance/core/file
+http://alliancep2pbeta.googlecode.com/svn
+
+
+
+2010-07-30T12:36:24.433667Z
+180
+bastvera
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfbd0fa4-10d7-11df-9cc9-4389dd015ce2
+
+blockstorage
+dir
+
+share
+dir
+
+hash
+dir
+
+filedatabase
+dir
+
+FileManager.java
+file
+
+
+
+
+2016-02-13T07:41:52.426360Z
+5c676e2ba02d295447e3ef247e598f99
+2010-06-28T17:15:53.747664Z
+139
+bastvera
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7709
+
+h2database
+dir
+

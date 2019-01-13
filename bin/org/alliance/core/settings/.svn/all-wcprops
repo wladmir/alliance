@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/220/trunk/src/org/alliance/core/settings
+END
+Share.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/180/trunk/src/org/alliance/core/settings/Share.java
+END
+SettingClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/34/trunk/src/org/alliance/core/settings/SettingClass.java
+END
+My.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/107/trunk/src/org/alliance/core/settings/My.java
+END
+Routerule.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/34/trunk/src/org/alliance/core/settings/Routerule.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/159/trunk/src/org/alliance/core/settings/Server.java
+END
+Friend.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/107/trunk/src/org/alliance/core/settings/Friend.java
+END
+Internal.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/180/trunk/src/org/alliance/core/settings/Internal.java
+END
+Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/220/trunk/src/org/alliance/core/settings/Plugin.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/trunk/src/org/alliance/core/settings/Settings.java
+END
+IPBlacklist.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/trunk/src/org/alliance/core/settings/IPBlacklist.java
+END

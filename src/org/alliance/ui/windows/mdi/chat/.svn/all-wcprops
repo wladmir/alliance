@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/180/trunk/src/org/alliance/ui/windows/mdi/chat
+END
+PrivateChatMessageMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/mdi/chat/PrivateChatMessageMDIWindow.java
+END
+PublicChatMessageMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/mdi/chat/PublicChatMessageMDIWindow.java
+END
+HistoryChatMessageMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/180/trunk/src/org/alliance/ui/windows/mdi/chat/HistoryChatMessageMDIWindow.java
+END
+AbstractChatMessageMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/mdi/chat/AbstractChatMessageMDIWindow.java
+END

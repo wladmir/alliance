@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/194/trunk/src/org/alliance/ui/windows/mdi
+END
+AllianceMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/mdi/AllianceMDIWindow.java
+END
+DownloadsMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/178/trunk/src/org/alliance/ui/windows/mdi/DownloadsMDIWindow.java
+END
+FriendsTreeMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/68/trunk/src/org/alliance/ui/windows/mdi/FriendsTreeMDIWindow.java
+END
+WelcomeMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/mdi/WelcomeMDIWindow.java
+END
+DuplicatesMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/mdi/DuplicatesMDIWindow.java
+END
+ConsoleMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/mdi/ConsoleMDIWindow.java
+END
+ConnectionsMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/mdi/ConnectionsMDIWindow.java
+END
+InvitationsMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/179/trunk/src/org/alliance/ui/windows/mdi/InvitationsMDIWindow.java
+END
+UploadsMDIWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/mdi/UploadsMDIWindow.java
+END

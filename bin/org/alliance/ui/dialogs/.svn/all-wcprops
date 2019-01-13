@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/dialogs
+END
+OptionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/dialogs/OptionDialog.java
+END
+ErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/dialogs/ErrorDialog.java
+END
+AddGroupDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/dialogs/AddGroupDialog.java
+END

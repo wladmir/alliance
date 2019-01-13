@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/180/trunk/src/org/alliance/ui/windows/options
+END
+SecurityTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/179/trunk/src/org/alliance/ui/windows/options/SecurityTab.java
+END
+SoundTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/options/SoundTab.java
+END
+NetworkTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/176/trunk/src/org/alliance/ui/windows/options/NetworkTab.java
+END
+OptionsWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/180/trunk/src/org/alliance/ui/windows/options/OptionsWindow.java
+END
+GeneralTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/options/GeneralTab.java
+END
+TabHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/107/trunk/src/org/alliance/ui/windows/options/TabHelper.java
+END
+TransferTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/options/TransferTab.java
+END
+DatabaseTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/options/DatabaseTab.java
+END
+FirewallTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/139/trunk/src/org/alliance/ui/windows/options/FirewallTab.java
+END

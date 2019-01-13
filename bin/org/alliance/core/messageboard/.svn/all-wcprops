@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/34/trunk/src/org/alliance/core/messageboard
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/trunk/src/org/alliance/core/messageboard/Message.java
+END
+Reply.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/34/trunk/src/org/alliance/core/messageboard/Reply.java
+END
+Topic.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/34/trunk/src/org/alliance/core/messageboard/Topic.java
+END
